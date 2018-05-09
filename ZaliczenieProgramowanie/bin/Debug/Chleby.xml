@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Lista chlebów-->
+<chleby>
+  <chleb>
+    <typ>Orkiszowy</typ>
+    <cena>2.2</cena>
+    <stan>10</stan>
+  </chleb>
+  <chleb>
+    <typ>Razowy</typ>
+    <cena>2.1</cena>
+    <stan>10</stan>
+  </chleb>
+  <chleb>
+    <typ>Z dynią</typ>
+    <cena>3.1</cena>
+    <stan>19</stan>
+  </chleb>
+  <chleb>
+    <typ>Zwykły</typ>
+    <cena>1.2</cena>
+    <stan>18</stan>
+  </chleb>
+</chleby>

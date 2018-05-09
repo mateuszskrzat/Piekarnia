@@ -1,0 +1,50 @@
+c:\users\mateusz\documents\visual studio 2017\Projects\ZaliczenieProgramowanie\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe.config
+c:\users\mateusz\documents\visual studio 2017\Projects\ZaliczenieProgramowanie\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe
+c:\users\mateusz\documents\visual studio 2017\Projects\ZaliczenieProgramowanie\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.pdb
+c:\users\mateusz\documents\visual studio 2017\Projects\ZaliczenieProgramowanie\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2017\Projects\ZaliczenieProgramowanie\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.exe
+c:\users\mateusz\documents\visual studio 2017\Projects\ZaliczenieProgramowanie\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csprojResolveAssemblyReference.cache
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.exe
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe.config
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe.config
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe.config
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe.config
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe.config
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csprojResolveAssemblyReference.cache
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.exe
+C:\Users\MateuszPC\Desktop\ZaliczenieProgramowanie2 — kopia\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\Desktop\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe.config
+C:\Users\Mateusz\Desktop\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\Desktop\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\Desktop\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\Desktop\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\source\repos\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe.config
+C:\Users\Mateusz\source\repos\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\source\repos\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\bin\Debug\ZaliczenieProgramowanie.pdb
+C:\Users\Mateusz\source\repos\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\source\repos\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.exe
+C:\Users\Mateusz\source\repos\Mateusz Skrzat projekt D303 7705\ZaliczenieProgramowanie\obj\Debug\ZaliczenieProgramowanie.pdb

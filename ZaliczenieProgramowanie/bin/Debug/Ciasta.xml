@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Lista ciast-->
+<paczki>
+  <ciasto>
+    <typ>Karpatka</typ>
+    <cena>27.99</cena>
+    <stan>2</stan>
+  </ciasto>
+  <ciasto>
+    <typ>Makowiec</typ>
+    <cena>22.99</cena>
+    <stan>2.1</stan>
+  </ciasto>
+  <ciasto>
+    <typ>Sernik</typ>
+    <cena>24.99</cena>
+    <stan>3.6</stan>
+  </ciasto>
+  <ciasto>
+    <typ>Szarlotka</typ>
+    <cena>21.99</cena>
+    <stan>3.2</stan>
+  </ciasto>
+</paczki>
